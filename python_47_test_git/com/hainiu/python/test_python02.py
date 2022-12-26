@@ -7,3 +7,4 @@ Copyright (c) 26/26/26/26/26/26/26/26, 海牛学院版权所有.
 """
 print("hello hainiu")
 print("hello lanjingling2")
+print("hello lanjingling2")
